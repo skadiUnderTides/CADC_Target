@@ -62,8 +62,6 @@ license: mit
 
 每张图像的YOLO标签文件是一个.txt文件，其中每行代表一个目标，每行包括以下信息：
 
-phpCopy code
-
 `<class_id> <center_x> <center_y> <width> <height>` 
 
 - `<class_id>`：目标类别的整数ID，例如：0代表红色靶标，1代表蓝色靶标。
