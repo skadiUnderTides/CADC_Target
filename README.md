@@ -4,7 +4,7 @@ license: mit
 
 **获取数据集请前往** **[Hugging Face](https://huggingface.co/datasets/UnderTides/CADC_Target/tree/main)**
 
-# CUADA固定翼无人机靶标识别数据集
+# CUADC固定翼无人机靶标识别数据集
 
 ## 项目概述
 
